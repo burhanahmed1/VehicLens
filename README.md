@@ -1,4 +1,4 @@
-# Automobiles Machine Learning Analysis
+# VehicLens: Optimized Regression Modeling of Automobile Attributes
 
 ## Introduction
 This repository contains the analysis and machine learning model implementation for the automobile dataset. The goal is to predict various automobile attributes using different machine learning techniques.
